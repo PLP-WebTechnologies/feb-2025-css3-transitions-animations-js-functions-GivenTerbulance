@@ -15,10 +15,5 @@ This project demonstrates how to create smooth CSS animations triggered by JavaS
 - CSS (animations, transitions, variables)
 - JavaScript (DOM manipulation, localStorage)
 
-##  Getting Started
 
-1. **Clone or download** this repository.
-2. Open `index.html` in any modern web browser.
-
-##  File Structure
 
