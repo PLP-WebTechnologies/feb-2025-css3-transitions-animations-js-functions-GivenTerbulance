@@ -1,23 +1,24 @@
-# CSS3 Transitions, Animations, and Advanced JavaScript Functions
+# 🎨 Animated Button with JavaScript and localStorage
 
-## Objectives
+This project demonstrates how to create smooth CSS animations triggered by JavaScript and how to use `localStorage` to persist user preferences like animation speed.
 
-Create smooth CSS transitions and animations.
-Use JavaScript functions for dynamic behavior.
-Implement local storage for data persistence.
+##  Features
 
-## Instructions
-Add CSS animations to elements like buttons or images.
+- Smooth CSS animation (button pulse effect)
+- Animation triggered dynamically via JavaScript
+- User can select animation speed from a dropdown
+- Selected speed is saved in `localStorage` and restored on reload
 
->[!NOTE]
-> - Write a JavaScript function that:
-> - Stores and retrieves user preferences using localStorage.
-> - Implements an animation triggered by user actions.
+##  Technologies Used
 
-## Tasks
+- HTML
+- CSS (animations, transitions, variables)
+- JavaScript (DOM manipulation, localStorage)
 
-Create a CSS animation.
-Store data in localStorage.
-Apply JavaScript to trigger animations.
+##  Getting Started
 
-Happy Coding! 💻✨
+1. **Clone or download** this repository.
+2. Open `index.html` in any modern web browser.
+
+##  File Structure
+
